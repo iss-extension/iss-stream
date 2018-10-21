@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Welcome</title>
+
+
+    <!--Scripts-->
+    <script src="dependencies/angular.js"></script>
+    <script src="scripts/livefeed.js"></script>
+
+    <!--CSS Files -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/main.css">
+  </head>
+
+  <body>
+    <div ng-app = "spaceApp" ng-controller = "spaceController">
+    <img id = "backgroundimage ng-src" = "{{imageURL}}"/>
+    <div id="wrapper">
+       <div id="player" class = "ytplayer">
+         
+         
+       </div>
+      <div id="time" class="container-fluid text-center align-middle">
+        <h1 id="time-text">12:00 AM</h1>
+      </div>
+      <div id="welcome" class="text-center">
+        <h2 id="welcome-text"></h2>"
+      </div>
+    <div id="quote" class="text-center" id = "main-text">
+        <h3 id="quote-text">"Where there's space, there's no life."</h3>
+        <h6 id="author">~Rahul Krishnan</h6>
+      </div>
+    </div>
+
+ <!--Bootstrap and JQuery Javascript -->
+    <script type='text/javascript' src="scripts/time.js"></script>
+    <script type='text/javascript' src="scripts/script.js"></script>
+    <script src="dependencies/jquery.js"></script>
+  </body>
+</html>
