@@ -10,7 +10,7 @@ This website is a supplement to [this extension](https://github.com/rahulk64/iss
 
 ## Authors
 
-* **Amit Joshi** - *Main ISS Feed Developer* - [amit56](https://github.com/amit56)
+* **Amit Joshi** - *Main ISS Feed Developer* - [amitjoshi24](https://github.com/amitjoshi24)
 * **Rahul Krishnan** - *Feed Assistance* - [rahulk64](https://github.com/rahulk64)
 * **Ashwin Kudva** - *Project Originator* - [shwinay](https://github.com/shwinay)
 
