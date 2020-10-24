@@ -19,5 +19,5 @@ This website is a supplement to [this extension](https://github.com/rahulk64/iss
 * **Santiago Cortes** - *Quote Scraping* - [sntgC](https://github.com/sntgC)
 * **Ansh Jain** - *Image Generation* - [Gamebot3](https://github.com/Gamebot3)
 * **Ashwin Kudva** - *Quote Generation, UI* - [shwinay](https://github.com/shwinay)
-* **Amit Joshi** - *ISS Feed Management* - [amit56](https://github.com/amit56)
+* **Amit Joshi** - *ISS Feed Management* - [amitjoshi24](https://github.com/amitjoshi24)
 * **Rahul Krishnan** - *UI Development* - [rahulk64](https://github.com/rahulk64)
